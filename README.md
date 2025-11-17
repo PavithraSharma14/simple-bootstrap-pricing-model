@@ -57,6 +57,3 @@ If you found this project interesting, feel free to ⭐ star the repo and connec
 ✨ *Built with passion for clean UI and responsive web design.*  
 
 
-
-## 📂 Project Structure
-
